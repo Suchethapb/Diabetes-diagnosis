@@ -1,5 +1,5 @@
 DIABETES PREDICTION SYSTEM using C++ 
-Project Image/Logo
+
 
 Description
 Developed an interactive diabetes prediction system that empowers users
