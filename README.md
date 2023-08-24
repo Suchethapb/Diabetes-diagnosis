@@ -1,6 +1,5 @@
 DIABETES PREDICTION SYSTEM using C++ 
 
-
 Description
 Developed an interactive diabetes prediction system that empowers users
 to input relevant health parameters and receive an instant assessment of
